@@ -1,0 +1,12 @@
+{
+  "group": "arcanumr_d",
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 260,
+  "ingredient": {
+    "item": "arcanumr_d:tungstenblock"
+  },
+  "result": {
+    "item": "arcanumr_d:tungsteningot"
+  }
+}

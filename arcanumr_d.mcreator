@@ -1,0 +1,155 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "Rubyore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyore"
+    },
+    {
+      "name": "Tungstenblock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstenblock"
+    },
+    {
+      "name": "Tungsteningot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungsteningot"
+    },
+    {
+      "name": "Arcanumrise",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcanumrise"
+    },
+    {
+      "name": "Tungstenpikaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstenpikaxe"
+    },
+    {
+      "name": "Tungsten",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungsten"
+    },
+    {
+      "name": "Tungstenpikaxerecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstenpikaxerecipe"
+    },
+    {
+      "name": "Tungstensword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstensword"
+    },
+    {
+      "name": "Tungstenswordrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstenswordrecipe"
+    },
+    {
+      "name": "Magmaticstone",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magmaticstone"
+    },
+    {
+      "name": "Ty",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ty",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.arcanumr_d.tungstenblock": "Tungsten ore",
+      "item.arcanumr_d.tungsteningot": "Tungsten ingot",
+      "item.arcanumr_d.tungstenpikaxe": "Tungstenpikaxe",
+      "block.arcanumr_d.rubyore": "Ruby ore",
+      "itemGroup.tabarcanumrise": "Arcanum Rise",
+      "block.arcanumr_d.magmaticstone": "Magmaticstone",
+      "item.arcanumr_d.tungstensword": "Tungstensword",
+      "item.arcanumr_d.ruby": "Ruby"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "arcanumr_d",
+    "modName": "Arcanum Rise Mod (Dark Edition)",
+    "version": "1.0.0",
+    "author": "AaronAnehasseRomera, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.arcanumrd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

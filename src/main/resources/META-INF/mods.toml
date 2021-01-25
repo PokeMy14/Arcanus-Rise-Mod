@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="arcanumr_d"
+version="1.0.0"
+displayName="Arcanum Rise Mod (Dark Edition)"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="AaronAnehasseRomera, MCreator"
+
+[[dependencies.arcanumr_d]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.arcanumr_d]]
+    modId="geckolib"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

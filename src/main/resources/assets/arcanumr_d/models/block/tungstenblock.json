@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcanumr_d:blocks/tungsten_block",
+    "up": "arcanumr_d:blocks/tungsten_block",
+    "north": "arcanumr_d:blocks/tungsten_block",
+    "east": "arcanumr_d:blocks/tungsten_block",
+    "south": "arcanumr_d:blocks/tungsten_block",
+    "west": "arcanumr_d:blocks/tungsten_block",
+    "particle": "arcanumr_d:blocks/tungsten_block"
+  }
+}

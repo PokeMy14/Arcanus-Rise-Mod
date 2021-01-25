@@ -1,0 +1,24 @@
+{
+  "group": "arcanumr_d",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "arcanumr_d:tungsteningot"
+    },
+    "1": {
+      "item": "arcanumr_d:tungsteningot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "arcanumr_d:tungstensword",
+    "count": 1
+  }
+}
