@@ -92,30 +92,31 @@
       "registry_name": "tungstenswordrecipe"
     },
     {
-      "name": "Magmaticstone",
-      "type": "block",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magmaticstone"
-    },
-    {
-      "name": "Ty",
-      "type": "procedure",
+      "name": "Pearlspear",
+      "type": "tool",
       "sortid": 12,
       "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "pearlspear"
+    },
+    {
+      "name": "Tungstenhoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ty",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
+      "registry_name": "tungstenhoe"
+    },
+    {
+      "name": "Tungstenhoerecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tungstenhoerecipe"
     }
   ],
   "variable_elements": [],
@@ -124,11 +125,12 @@
     "en_us": {
       "block.arcanumr_d.tungstenblock": "Tungsten ore",
       "item.arcanumr_d.tungsteningot": "Tungsten ingot",
+      "item.arcanumr_d.tungstenhoe": "Tungstenhoe",
       "item.arcanumr_d.tungstenpikaxe": "Tungstenpikaxe",
       "block.arcanumr_d.rubyore": "Ruby ore",
       "itemGroup.tabarcanumrise": "Arcanum Rise",
-      "block.arcanumr_d.magmaticstone": "Magmaticstone",
       "item.arcanumr_d.tungstensword": "Tungstensword",
+      "item.arcanumr_d.pearlspear": "Pearlspear",
       "item.arcanumr_d.ruby": "Ruby"
     }
   },

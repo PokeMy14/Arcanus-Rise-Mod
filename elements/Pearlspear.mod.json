@@ -3,27 +3,23 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "tungsten_picaxe",
+    "texture": "pearl_spear",
     "customModelName": "Normal",
-    "name": "Tungstenpikaxe",
+    "name": "Pearlspear",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Arcanumrise"
     },
     "toolType": "Pickaxe",
-    "harvestLevel": 4,
-    "efficiency": 10.0,
+    "harvestLevel": 1,
+    "efficiency": 4.0,
     "attackSpeed": 1.0,
-    "enchantability": 14,
-    "damageVsEntity": 2.5,
-    "usageCount": 1650,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [
-      {
-        "value": "CUSTOM:Tungsteningot"
-      }
-    ],
+    "repairItems": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

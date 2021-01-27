@@ -3,20 +3,20 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "tungsten_picaxe",
+    "texture": "tungsten_hoe",
     "customModelName": "Normal",
-    "name": "Tungstenpikaxe",
+    "name": "Tungstenhoe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Arcanumrise"
     },
-    "toolType": "Pickaxe",
-    "harvestLevel": 4,
+    "toolType": "Hoe",
+    "harvestLevel": 1,
     "efficiency": 10.0,
     "attackSpeed": 1.0,
-    "enchantability": 14,
-    "damageVsEntity": 2.5,
-    "usageCount": 1650,
+    "enchantability": 8,
+    "damageVsEntity": 5.0,
+    "usageCount": 1800,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [

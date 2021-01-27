@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "arcanumr_d:items/tungsten_picaxe"
+    "layer0": "arcanumr_d:items/tungsten_hoe"
   }
 }
